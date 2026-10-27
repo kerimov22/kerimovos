@@ -1,0 +1,6 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "KerimovOS shell application",
+  "arch": "x86_64"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "vim",
+  "version": "1.0.0",
+  "description": "KerimovOS vim application",
+  "arch": "x86_64"
+}

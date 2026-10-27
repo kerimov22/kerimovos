@@ -1,0 +1,6 @@
+{
+  "name": "nano",
+  "version": "1.0.0",
+  "description": "KerimovOS nano application",
+  "arch": "x86_64"
+}

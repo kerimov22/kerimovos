@@ -1,0 +1,6 @@
+{
+  "name": "xxd",
+  "version": "1.0.0",
+  "description": "KerimovOS xxd application",
+  "arch": "x86_64"
+}

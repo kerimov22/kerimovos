@@ -1,0 +1,6 @@
+{
+  "name": "ifconfig",
+  "version": "1.0.0",
+  "description": "KerimovOS ifconfig application",
+  "arch": "x86_64"
+}

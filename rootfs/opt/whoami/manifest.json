@@ -1,0 +1,6 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "KerimovOS whoami application",
+  "arch": "x86_64"
+}

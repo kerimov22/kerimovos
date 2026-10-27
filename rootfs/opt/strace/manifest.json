@@ -1,0 +1,6 @@
+{
+  "name": "strace",
+  "version": "1.0.0",
+  "description": "KerimovOS strace application",
+  "arch": "x86_64"
+}

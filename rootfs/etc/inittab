@@ -1,0 +1,4 @@
+# KerimovOS inittab
+::sysinit:/etc/init.d/rcS
+::askfirst:/bin/ksh
+::ctrlaltdel:/sbin/reboot

@@ -1,0 +1,6 @@
+{
+  "name": "man",
+  "version": "1.0.0",
+  "description": "KerimovOS man application",
+  "arch": "x86_64"
+}

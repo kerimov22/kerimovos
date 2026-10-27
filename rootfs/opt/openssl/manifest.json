@@ -1,0 +1,6 @@
+{
+  "name": "openssl",
+  "version": "1.0.0",
+  "description": "KerimovOS openssl application",
+  "arch": "x86_64"
+}

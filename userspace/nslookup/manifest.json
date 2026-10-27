@@ -1,0 +1,6 @@
+{
+  "name": "nslookup",
+  "version": "1.0.0",
+  "description": "KerimovOS nslookup application",
+  "arch": "x86_64"
+}

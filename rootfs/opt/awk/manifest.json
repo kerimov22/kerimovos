@@ -1,0 +1,6 @@
+{
+  "name": "awk",
+  "version": "1.0.0",
+  "description": "KerimovOS awk application",
+  "arch": "x86_64"
+}

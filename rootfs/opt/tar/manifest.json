@@ -1,0 +1,6 @@
+{
+  "name": "tar",
+  "version": "1.0.0",
+  "description": "KerimovOS tar application",
+  "arch": "x86_64"
+}

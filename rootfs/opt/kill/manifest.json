@@ -1,0 +1,6 @@
+{
+  "name": "kill",
+  "version": "1.0.0",
+  "description": "KerimovOS kill application",
+  "arch": "x86_64"
+}

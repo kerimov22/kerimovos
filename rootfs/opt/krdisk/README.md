@@ -1,0 +1,1 @@
+# krdisk — KerimovOS app

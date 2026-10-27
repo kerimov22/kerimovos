@@ -1,0 +1,6 @@
+{
+  "name": "scp",
+  "version": "1.0.0",
+  "description": "KerimovOS scp application",
+  "arch": "x86_64"
+}

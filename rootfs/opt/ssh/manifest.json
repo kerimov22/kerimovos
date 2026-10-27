@@ -1,0 +1,6 @@
+{
+  "name": "ssh",
+  "version": "1.0.0",
+  "description": "KerimovOS ssh application",
+  "arch": "x86_64"
+}

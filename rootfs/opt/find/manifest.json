@@ -1,0 +1,6 @@
+{
+  "name": "find",
+  "version": "1.0.0",
+  "description": "KerimovOS find application",
+  "arch": "x86_64"
+}

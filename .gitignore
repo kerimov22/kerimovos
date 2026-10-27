@@ -1,0 +1,10 @@
+build/
+*.o
+*.elf
+*.bin
+*.efi
+*.iso
+*.img
+*.tar
+*.swp
+*.~*

@@ -1,0 +1,5 @@
+# KerimovOS /etc/fstab
+# <device>        <mountpoint>  <fstype>  <options>  <dump> <pass>
+//phys/pd0         /             fat32     rw         0      1
+//phys/pd1         /mnt/ntfs     ntfs      rw         0      2
+//phys/pd0p1       /mnt/usb      fat32     rw         0      2

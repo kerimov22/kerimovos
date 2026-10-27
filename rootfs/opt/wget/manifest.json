@@ -1,0 +1,6 @@
+{
+  "name": "wget",
+  "version": "1.0.0",
+  "description": "KerimovOS wget application",
+  "arch": "x86_64"
+}

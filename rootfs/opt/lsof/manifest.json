@@ -1,0 +1,6 @@
+{
+  "name": "lsof",
+  "version": "1.0.0",
+  "description": "KerimovOS lsof application",
+  "arch": "x86_64"
+}

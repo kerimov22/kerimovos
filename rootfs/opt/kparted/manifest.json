@@ -1,0 +1,6 @@
+{
+  "name": "kparted",
+  "version": "1.0.0",
+  "description": "KerimovOS kparted application",
+  "arch": "x86_64"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "gzip",
+  "version": "1.0.0",
+  "description": "KerimovOS gzip application",
+  "arch": "x86_64"
+}

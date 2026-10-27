@@ -1,0 +1,6 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "KerimovOS calc application",
+  "arch": "x86_64"
+}
